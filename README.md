@@ -1,3 +1,6 @@
+[![Docker Automated build](https://img.shields.io/docker/automated/ayamshanov/slave-dns.svg)]()
+[![Docker Build Status](https://img.shields.io/docker/build/ayamshanov/slave-dns.svg)]()
+
 # Docker container with slave DNS (dynamic zones)
 
 > Alpine Linux  
